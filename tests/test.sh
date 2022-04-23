@@ -1,3 +1,2 @@
 #!/bin/sh
-ansible-playbook -i hosts playbook.yml
-
+sudo ansible-playbook -i hosts playbook.yml
